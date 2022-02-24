@@ -1,8 +1,8 @@
 # ESPHome-sound-detector
 
-## Tutorial:
+## Description:
 
-Postup: [Ali](https://thibmaek.com/posts/detecting-sound-level-using-esp8266-and-esphome)
+[Tutorial](https://thibmaek.com/posts/detecting-sound-level-using-esp8266-and-esphome)
 
 ## Wiring:
 
