@@ -1,11 +1,12 @@
 # ESPHome-sound-detector
 
+## Tutorial:
 
-https://thibmaek.com/posts/detecting-sound-level-using-esp8266-and-esphome!
+Postup: [Ali](https://thibmaek.com/posts/detecting-sound-level-using-esp8266-and-esphome)
 
-[KY-038](https://user-images.githubusercontent.com/58307338/155599575-343adcfb-3294-41b6-9f58-004885b98063.png)
+## Wiring:
 
-
+![Wiring:](https://images.ctfassets.net/vzyw32ih2a4n/7JNQcx7KGhluEEglaWz36/6f296c7f23a5b752b22d4860d9776360/KY-038.png)
 
 ## ESPHome code:
 
