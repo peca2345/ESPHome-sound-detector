@@ -25,6 +25,7 @@ ota:
 api:
 
 # BELOW WILL READ OUT THE ANALOG SIGNAL
+
 # sensor:
   # - platform: adc
   #   pin: A0
@@ -34,6 +35,7 @@ api:
   #     - multiply: 3.3 # see https://esphome.io/components/sensor/adc.html
 
 # DEBOUNCED FOR 1S BECAUSE THE TRIGGER PERIOD IS VERY SHORT
+
 binary_sensor:
   - platform: gpio
     pin: D2
