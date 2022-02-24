@@ -9,7 +9,7 @@ https://thibmaek.com/posts/detecting-sound-level-using-esp8266-and-esphome!
 
 ## ESPHome code:
 
-´´´
+’’’
 esphome:
   name: wemos_sound_level_detector
   platform: ESP8266
@@ -39,5 +39,4 @@ binary_sensor:
     name: "Sound level"
     filters:
       - delayed_off: 1s
-
-´´´
+’’’
